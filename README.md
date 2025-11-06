@@ -8,7 +8,7 @@ Me chamo Vanderlei Lópes de Medeiros, tenho 23 anos e atualmente trabalho como 
 Em março de 2025, completo 4 anos de experiência com suporte técnico — período em que adquiri muito conhecimento sobre regras de negócio, atendimento ao cliente e resolução de problemas técnicos.
 
 Estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas no UNISENAI Joinville, onde tive meu primeiro contato com programação.
-Aprender a programar tem sido um grande desafio, mas também uma paixão: estou sempre estudando, fazendo cursos e buscando entender mais a fundo como tudo funciona.
+Aprender a programar tem sido um grande desafio, mas também a cada resolução de bug ou erro é uma satisfação, estou sempre estudando, fazendo cursos e buscando entender mais a fundo como tudo funciona.
 
 💻 Meu foco atual
 
@@ -57,7 +57,7 @@ Cloud e DevOps (conceitos iniciais)
 
 📧 Email: vanderleilopes23.vl@gmail.com
 💼 LinkedIn: www.linkedin.com/in/vandlopes23
-🐙 GitHub: github.com/vanderleilopes
+
 <!--
 **VandLopes/VandLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
